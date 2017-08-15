@@ -1,0 +1,203 @@
+@charset "UTF-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+}
+.wrapper{
+	margin: 0 auto;
+	width: 1000px;
+
+
+	
+}
+.header{
+padding: 10px;
+background-color: #558811;
+overflow:hidden;
+
+
+
+}
+
+
+.header img{
+	width: 150px;
+	float: left;
+	margin-right: 40px;
+	margin-left: 20px;
+	margin-top: 5px;
+	
+}
+.header h1{
+	margin-top: 100px;
+	font-family: Georgia;
+	color: yellow;
+	
+}
+
+
+.header h3{
+	font-family: sans-serif;
+	color: yellow;
+}
+.movetext{
+background-color: #330088;
+color: White;
+font-size: 17px;
+font-family: Times New Roman;
+font-weight: bold;
+padding: 7px;
+backface-visibility: .7px;
+
+}
+
+
+
+.services{
+	width: 290px;
+	background-color:  #d6d6c2;
+	border-radius: 5px;
+	padding: 5px;
+	float: left;
+	height: 800px;
+	overflow: auto;
+
+	
+
+}
+.services h2{
+	margin-top:15px;
+	text-align: center;
+	color: green;
+
+}
+.services img{
+	float: left;
+}
+.services p{
+	font-weight: bold;
+	font-size: 20px;
+	margin-top:30px;
+	color:#332277;		 
+
+}
+
+.services h4{
+	color: black;
+	font-family: Georgia;
+}
+
+.login{
+	width: 250px;
+	margin:0 auto;
+	border: 1px outset black;
+	margin-top: 20px;
+	background-color:  #8080ff;
+	border-radius: 10px;
+}
+
+.login h3{
+	color: white;
+	background-color: #1a1aff;
+	border-radius:8px;
+	padding: 5px;
+	font-family: sans-serif;
+
+
+}
+.login table{
+	width: 250px;
+	height: 100px;
+	margin-left: 5px;
+}
+.login  input{
+	border-radius: 5px;
+	border: none;
+	padding: 5px;
+}
+
+.login button{
+	margin-left: 80px;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #ff471a;
+	color: white;
+	font-family: sans-serif;
+}
+
+.bdy{
+	overflow: auto;
+}
+.slide{
+	float: right;
+
+}
+
+.slide img{
+ 
+width:700px;
+height:300px;
+
+
+}
+
+.slidebody{
+width: 700px;
+margin-top: 20px;
+overflow: auto;
+
+
+}
+.slideraw{
+	border-right: 1px solid black;
+}
+
+.slideraw h3{
+	color: blue;
+	font-style:sans-serif; 
+}
+
+.slidebody h2{
+	margin-left: 150px;
+	padding: 10px;
+	background-color: orange;
+	border-radius: 30px;
+	color: green;
+	border: 2px solid black;
+
+
+}
+.slideraw{
+	width: 220px;
+	margin-left: 10px;
+	margin-top: 20px;
+	float: left;
+}
+
+.slideraw img{
+	width: 220px;
+	height: 150px;
+
+}
+
+
+.foot{
+	width: 1000px;
+	margin-top: 5px;
+
+
+
+
+}
+.foot pre{
+	color: white;
+	padding: 40px;
+	background-color: #3322ff;
+	margin-bottom: 10px;
+	font-size: 10px;
+	}
